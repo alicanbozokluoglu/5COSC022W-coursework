@@ -59,31 +59,43 @@ The application is bootstrapped using Jersey together with an embedded Grizzly H
 #### Project Structure
 
 ```
-
-src
-└── main
-└── java
-└── com.mlops.api
-├── ApiApplication.java
-├── ApiConfig.java
-├── DataStore.java
-├── HelloResource.java
-├── WorkspaceResource.java
-├── ModelResource.java
-├── EvaluationMetricResource.java
-├── MLWorkspace.java
-├── MLModel.java
-├── EvaluationMetric.java
-├── ErrorResponse.java
-├── WorkspaceNotEmptyException.java
-├── WorkspaceNotEmptyExceptionMapper.java
-├── LinkedWorkspaceNotFoundException.java
-├── LinkedWorkspaceNotFoundExceptionMapper.java
-├── ModelDeprecatedException.java
-├── ModelDeprecatedExceptionMapper.java
-├── GlobalExceptionMapper.java
-└── LoggingFilter.java
-
+mlops-api
+│
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── mlops/
+│   │   │           └── api/
+│   │   │               ├── ApiApplication.java
+│   │   │               ├── ApiConfig.java
+│   │   │               ├── DataStore.java
+│   │   │               ├── ErrorResponse.java
+│   │   │               ├── EvaluationMetric.java
+│   │   │               ├── EvaluationMetricResource.java
+│   │   │               ├── GlobalExceptionMapper.java
+│   │   │               ├── HelloResource.java
+│   │   │               ├── LinkedWorkspaceNotFoundException.java
+│   │   │               ├── LinkedWorkspaceNotFoundExceptionMapper.java
+│   │   │               ├── LoggingFilter.java
+│   │   │               ├── MLModel.java
+│   │   │               ├── MLWorkspace.java
+│   │   │               ├── ModelDeprecatedException.java
+│   │   │               ├── ModelDeprecatedExceptionMapper.java
+│   │   │               ├── ModelResource.java
+│   │   │               ├── WorkspaceNotEmptyException.java
+│   │   │               ├── WorkspaceNotEmptyExceptionMapper.java
+│   │   │               └── WorkspaceResource.java
+│   │   │
+│   │   └── resources/
+│   │
+│   └── test/
+│
+├── target/
+│
+├── pom.xml
+│
+└── README.md
 ```
 
 
