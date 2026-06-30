@@ -1,0 +1,63 @@
+!SESSION 2026-06-09 23:58:47.321 -----------------------------------------------
+eclipse.buildId=4.39.0.20260305-0817
+java.version=21.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=tr_TR
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/alicanbozokluoglu/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/alicanbozokluoglu/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2026-06-09 23:58:49.911
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-06-09 23:58:55.194
+!MESSAGE Logback config file: /Users/alicanbozokluoglu/eclipse-workspace/mlops-api/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
+!SESSION 2026-06-10 00:00:28.874 -----------------------------------------------
+eclipse.buildId=4.39.0.20260305-0817
+java.version=21.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=tr_TR
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/alicanbozokluoglu/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/alicanbozokluoglu/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2026-06-10 00:00:31.445
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2026-06-10 00:00:42.009
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-06-10 00:00:42.891
+!MESSAGE Logback config file: /Users/alicanbozokluoglu/Desktop/mlops-api/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
+
+!ENTRY org.eclipse.ui.ide 4 4 2026-06-10 00:02:16.726
+!MESSAGE Problems saving workspace
+
+!ENTRY org.eclipse.ui.ide 2 1 2026-06-10 00:02:16.729
+!MESSAGE Problems occurred while trying to save the state of the workbench.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2026-06-10 00:02:16.729
+!MESSAGE The project description file (.project) for '.org.eclipse.egit.core.cmp' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SESSION 2026-06-10 00:02:31.070 -----------------------------------------------
+eclipse.buildId=4.39.0.20260305-0817
+java.version=21.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=tr_TR
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/alicanbozokluoglu/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/alicanbozokluoglu/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2026-06-10 00:02:33.830
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-06-10 00:02:43.655
+!MESSAGE Logback config file: /Users/alicanbozokluoglu/Desktop/mlops-api/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
+!SESSION 2026-06-10 00:04:42.165 -----------------------------------------------
+eclipse.buildId=4.39.0.20260305-0817
+java.version=21.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=tr_TR
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/alicanbozokluoglu/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/alicanbozokluoglu/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2026-06-10 00:04:44.800
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-06-10 00:05:52.673
+!MESSAGE Logback config file: /Users/alicanbozokluoglu/Desktop/mlops-api/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
